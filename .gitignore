@@ -1,5 +1,4 @@
 # Git ignore from command line
 *.pdf
 *.zip
-*.csv
 
